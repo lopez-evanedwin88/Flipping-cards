@@ -4,4 +4,6 @@ export const color = {
 
 export const fonts = {
   sm: 12,
+  md: 15,
+  lg: 20,
 };
